@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Nombre de tu proyecto
+# Pagina de github de Javier Arrebola
 
-Breve descripción de tu proyecto o página.
+Soy estudiante de Desarrollo de aplicaciones Web.
 
 ---
 
